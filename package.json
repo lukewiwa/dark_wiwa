@@ -1,0 +1,22 @@
+{
+    "name": "dark-wiwa",
+    "displayName": "Dark Wiwa",
+    "description": "An implementation of calming colours and dark backgrounds to reduce eye strain",
+    "version": "0.0.1",
+    "publisher": "lukewiwa",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Wiwa",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-wiwa-color-theme.json"
+            }
+        ]
+    }
+}
