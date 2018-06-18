@@ -4,7 +4,6 @@
     {
       "name": "Global settings",
       "settings": {
-        "background": "#111111",
         "foreground": "#FFFFFF"
       }
     },
@@ -296,13 +295,6 @@
       "settings": {
         "foreground": "#FFFFFF"
       }
-    },
-    {
-      "name": "Global settings",
-      "settings": {
-        "background": "#111111",
-        "foreground": "#FFFFFF"
-      }
     }
   ],
   "colors": {
@@ -322,8 +314,10 @@
     "sideBar.background": "#141414",
     "sideBarSectionHeader.background": "#171717",
     "editorGroup.dropBackground": "#33A95880",
-    "editorGroupHeader.tabsBackground": "#141414",
-    "tab.border": "#00000033",
+    "editorGroupHeader.tabsBackground": "#1b1b1b",
+    "editorGroupHeader.tabsBorder": "#222222",
+    "editorGutter.background": "#1b1b1b",
+    "tab.border": "#222222",
     "tab.inactiveBackground": "#171717",
     "editor.background": "#111111",
     "editor.foreground": "#FFFFFF",
@@ -341,12 +335,12 @@
     "panel.border": "#FFFFFF1a",
     "panelTitle.activeBorder": "#FFFFFF80",
     "panelTitle.inactiveForeground": "#FFFFFF80",
-    "statusBar.background": "#0d0d0d",
+    "statusBar.background": "#33A95880",
     "statusBar.debuggingBackground": "#33A958",
     "statusBar.noFolderBackground": "#0d0d0d",
     "statusBarItem.activeBackground": "#33A95880",
     "statusBarItem.hoverBackground": "#FFFFFF1a",
-    "titleBar.activeBackground": "#0d0d0d",
+    "titleBar.activeBackground": "#242424",
     "pickerGroup.border": "#FFFFFF1a",
     "debugToolBar.background": "#171717"
   }
