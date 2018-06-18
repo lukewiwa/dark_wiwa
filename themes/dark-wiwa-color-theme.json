@@ -2,12 +2,6 @@
   "name": "Dark Wiwa",
   "tokenColors": [
     {
-      "name": "Global settings",
-      "settings": {
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
       "name": "String",
       "scope": "string",
       "settings": {
