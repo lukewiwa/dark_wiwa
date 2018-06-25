@@ -309,7 +309,7 @@
     "sideBarSectionHeader.background": "#333333",
     "editorGroup.dropBackground": "#33A95880",
     "editorGroupHeader.tabsBackground": "#1b1b1b",
-    "editorGutter.background": "#242424",
+    "editorGutter.background": "#1f1f1f",
     "tab.inactiveBackground": "#171717",
     "editor.background": "#272727",
     "editor.foreground": "#FFFFFF",
@@ -323,7 +323,7 @@
     "peekViewEditor.background": "#0d0d0d",
     "peekViewResult.background": "#141414",
     "peekViewTitle.background": "#111111",
-    "panel.background": "#141414",
+    "panel.background": "#272727",
     "panel.border": "#FFFFFF1a",
     "panelTitle.activeBorder": "#FFFFFF80",
     "panelTitle.inactiveForeground": "#FFFFFF80",
@@ -334,6 +334,7 @@
     "statusBarItem.hoverBackground": "#FFFFFF1a",
     "titleBar.activeBackground": "#333333",
     "pickerGroup.border": "#FFFFFF1a",
-    "debugToolBar.background": "#171717"
+    "debugToolBar.background": "#171717",
+    "terminal.background": "#272727"
   }
 }
